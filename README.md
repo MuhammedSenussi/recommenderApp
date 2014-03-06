@@ -1,6 +1,6 @@
-recommender-ws
-==============
+recommender-app
+=================
 
-
+testing mahout recommendation
 
 
